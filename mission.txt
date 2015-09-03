@@ -1,0 +1,16 @@
+open source software
+catalogued
+managed
+secured
+licensed
+rated
+
+be here or be left out of the enterprise
+
+integrations:
+github
+nist
+code equality tooing
+ci
+binary repos
+
